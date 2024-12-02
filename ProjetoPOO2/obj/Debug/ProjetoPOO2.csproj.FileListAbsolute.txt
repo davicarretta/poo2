@@ -121,10 +121,10 @@ C:\Users\Proprietário\Downloads\ProjetoPOO2-main\ProjetoPOO2\bin\Debug\System.N
 C:\Users\Proprietário\Downloads\ProjetoPOO2-main\ProjetoPOO2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Proprietário\Downloads\ProjetoPOO2-main\ProjetoPOO2\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Proprietário\Downloads\ProjetoPOO2-main\ProjetoPOO2\obj\Debug\ProjetoPOO2.csproj.AssemblyReference.cache
-C:\Users\Proprietário\Downloads\ProjetoPOO2-main\ProjetoPOO2\obj\Debug\ProjetoPOO2.FormProdutos.resources
 C:\Users\Proprietário\Downloads\ProjetoPOO2-main\ProjetoPOO2\obj\Debug\ProjetoPOO2.Properties.Resources.resources
 C:\Users\Proprietário\Downloads\ProjetoPOO2-main\ProjetoPOO2\obj\Debug\ProjetoPOO2.csproj.GenerateResource.cache
 C:\Users\Proprietário\Downloads\ProjetoPOO2-main\ProjetoPOO2\obj\Debug\ProjetoPOO2.csproj.CoreCompileInputs.cache
 C:\Users\Proprietário\Downloads\ProjetoPOO2-main\ProjetoPOO2\obj\Debug\ProjetoP.27577361.Up2Date
 C:\Users\Proprietário\Downloads\ProjetoPOO2-main\ProjetoPOO2\obj\Debug\ProjetoPOO2.exe
 C:\Users\Proprietário\Downloads\ProjetoPOO2-main\ProjetoPOO2\obj\Debug\ProjetoPOO2.pdb
+C:\Users\Proprietário\Downloads\ProjetoPOO2-main\ProjetoPOO2\obj\Debug\ProjetoPOO2.Form1.resources
